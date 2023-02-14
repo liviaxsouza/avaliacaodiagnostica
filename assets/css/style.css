@@ -1,0 +1,46 @@
+header {
+    background-color: #A89B85;
+    text-align: center;
+}
+
+#pa1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+#pa2 {
+    text-align: justify;
+}
+
+#pa3 {
+    text-align: justify;
+}
+
+#pa4 {
+    text-align: justify;
+}
+
+#pa5 {
+    text-align: justify;
+}
+
+#pa6 {
+    text-align: justify;
+}
+
+#pimg {
+    text-align: center;
+    width: 50px;
+}
+
+footer {
+    background-color: #A89B85;
+    text-align: center;
+}
+
+#pfooter {
+    font-size: 12px;
+}
+
+
+}
