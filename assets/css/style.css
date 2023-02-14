@@ -28,9 +28,16 @@ header {
     text-align: justify;
 }
 
-#pimg {
+#img {
+    width: 100px;
+}
+
+#img2 {
+    width: 80px;
+}
+
+#img_section{
     text-align: center;
-    width: 50px;
 }
 
 footer {
